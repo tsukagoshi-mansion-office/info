@@ -1,6 +1,6 @@
 title: お知らせ補足資料
 description: 掲示板では伝えきれない補足説明を掲載します
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 markdown: kramdown
 kramdown:
   toc_levels: 2..3
