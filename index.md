@@ -3,7 +3,7 @@ layout: default
 title: スクロール表示確認用テストページ
 ---
 
-![トップページ](assets/images/top.png)
+![トップページ](assets/images/top.jpg)
 
 # スクロール表示確認用テストページ
 
