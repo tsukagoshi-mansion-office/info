@@ -3,7 +3,7 @@ layout: default
 title: スクロール表示確認用テストページ
 ---
 
-![アンケート回答用QRコード](assets/images/qr.png)
+![トップページ](assets/images/top.png)
 
 # スクロール表示確認用テストページ
 
